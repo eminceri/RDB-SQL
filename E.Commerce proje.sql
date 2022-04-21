@@ -237,7 +237,7 @@ FROM
 
 --/////////////////////////////////////
 
---MONTH-WİSE RETENTİON RATE
+--MONTH-WÃSE RETENTÃON RATE
 
 
 --Find month-by-month customer retention rate  since the start of the business.
@@ -305,4 +305,3 @@ ON		A.CURRENT_MONTH + 1 = B.NEXT_VISIT_MONTH
 
 
 ---///////////////////////////////////
---Teşekkür ederiz güzel bir çalışmaydı. 
